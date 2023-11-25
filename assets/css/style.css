@@ -16,3 +16,10 @@ header div.container{
     justify-content: center;
     align-items: center;
 }
+
+header div.container div.logo img.logo{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    object-fit: cover;
+}
