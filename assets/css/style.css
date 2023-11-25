@@ -33,3 +33,10 @@ header div.container nav.main-menu ul{
 header div.container nav.main-menu ul li{
     padding: 5px 15px;
 }
+
+header div.container nav.main-menu ul li a{
+    text-decoration: none;
+    display: block;
+    color :#505050;
+    font-weight: normal;
+}
