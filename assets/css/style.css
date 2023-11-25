@@ -39,4 +39,11 @@ header div.container nav.main-menu ul li a{
     display: block;
     color :#505050;
     font-weight: normal;
+    transition: all .3s ease-in-out;
+}
+
+/* ==========> Hover <========== */
+
+header div.container nav.main-menu ul li a:hover{
+    color: #4352F7;
 }
